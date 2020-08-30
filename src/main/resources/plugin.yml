@@ -1,0 +1,5 @@
+main: net.kjnine.skywars.SkywarsPlugin
+name: Skywars
+version: 0.2.5
+load: STARTUP
+depend: [ItemBuilder, MenuBuilder, WorldEdit, FastAsyncWorldEdit, ProtocolLib, NickAPI]
