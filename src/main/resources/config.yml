@@ -3,5 +3,5 @@ maps-folder: maps
 redis:
     host: 'localhost'
     port: 6379
-    pass: '21b17c4404913a0a5d350c5d75f3bded32ceb07ea905d7d7be4a1bb315c2d07e'
+    pass: '123'
     server-name: 'sky_123'
