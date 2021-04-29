@@ -1,2 +1,17 @@
-# Skywars1_7
-Unfinished 1.7 skywars core plugin
+# SkywarsEngine
+
+## 1.7 skywars minigame engine. (Semi-complete)
+
+Originally developed for a cancelled 1.7 Minigame Network project, no updates will be made.
+
+* Multiple games per server
+* "Cage" is Badlion-Meetup style, riding a non-dismountable invisible entity.
+* Supports Nicknamer plugin
+* Loot supports two tiers, island and middle.
+* Loot fills potions in brewing stands
+* Runs game timers for loot refills.
+* Spawns ender dragon in endgame.
+* Firework win effects
+* Stats tracking
+
+### Fork this plugin if you wish to use it for your server. The current version of this plugin is not suitable for any public server and lacks critical features.
