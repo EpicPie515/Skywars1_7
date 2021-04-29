@@ -1,6 +1,6 @@
 # SkywarsEngine
 
-## 1.7 skywars minigame engine. (Semi-complete)
+## 1.7 Skywars Minigame Engine. (Semi-complete)
 
 Originally developed for a cancelled 1.7 Minigame Network project, no updates will be made.
 
@@ -14,4 +14,4 @@ Originally developed for a cancelled 1.7 Minigame Network project, no updates wi
 * Firework win effects
 * Stats tracking
 
-### Fork this plugin if you wish to use it for your server. The current version of this plugin is not suitable for any public server and lacks critical features.
+### Fork this plugin if you wish to use it for your server. The current version of this plugin may not function properly and may lack critical features. It is not suitable for any public server.
